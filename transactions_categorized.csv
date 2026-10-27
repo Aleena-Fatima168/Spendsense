@@ -1,0 +1,361 @@
+date,description,amount,true_category,predicted_category
+2026-04-04,Shell Gas,21.39,Transportation,Transportation
+2026-04-04,PlayStation Store,78.03,Entertainment,Entertainment
+2026-04-05,Walmart,39.04,Groceries,Groceries
+2026-04-06,H&M,181.72,Shopping,Shopping
+2026-04-07,H&M,34.52,Shopping,Shopping
+2026-04-10,Walmart,119.96,Groceries,Groceries
+2026-04-10,Trader Joe's,97.95,Groceries,Groceries
+2026-04-11,Trader Joe's,33.75,Groceries,Groceries
+2026-04-11,Kroger,103.97,Groceries,Groceries
+2026-04-12,Whole Foods,39.43,Groceries,Groceries
+2026-04-12,Trader Joe's,88.81,Groceries,Groceries
+2026-04-12,Amazon,110.12,Shopping,Shopping
+2026-04-12,Shell Gas,9.06,Transportation,Transportation
+2026-04-13,Target,51.92,Shopping,Shopping
+2026-04-13,Trader Joe's,23.06,Groceries,Groceries
+2026-04-13,Pizza Hut,14.04,Dining,Dining
+2026-04-13,Trader Joe's,106.32,Groceries,Groceries
+2026-04-13,Shell Gas,33.4,Transportation,Transportation
+2026-04-14,Zara,126.69,Shopping,Shopping
+2026-04-14,Pizza Hut,55.9,Dining,Dining
+2026-04-15,Amazon Prime,11.87,Subscriptions,Subscriptions
+2026-04-15,Netflix,19.6,Subscriptions,Subscriptions
+2026-04-15,Whole Foods,81.9,Groceries,Groceries
+2026-04-17,Kroger,70.24,Groceries,Groceries
+2026-04-17,Pizza Hut,13.93,Dining,Dining
+2026-04-17,Whole Foods,112.41,Groceries,Groceries
+2026-04-17,PlayStation Store,34.62,Entertainment,Entertainment
+2026-04-17,Kroger,102.08,Groceries,Groceries
+2026-04-17,Uber,7.73,Transportation,Transportation
+2026-04-17,Zara,27.19,Shopping,Shopping
+2026-04-18,Chipotle,30.4,Dining,Dining
+2026-04-18,Walmart,99.53,Groceries,Groceries
+2026-04-19,Uber,47.64,Transportation,Transportation
+2026-04-20,McDonald's,38.01,Dining,Dining
+2026-04-20,Chipotle,36.22,Dining,Dining
+2026-04-20,Chipotle,34.69,Dining,Dining
+2026-04-21,Zara,67.72,Shopping,Shopping
+2026-04-21,Shell Gas,23.17,Transportation,Transportation
+2026-04-21,PlayStation Store,34.58,Entertainment,Entertainment
+2026-04-21,Amazon,154.53,Shopping,Shopping
+2026-04-21,PlayStation Store,53.62,Entertainment,Entertainment
+2026-04-22,Walmart,22.69,Groceries,Groceries
+2026-04-23,Spotify,9.08,Subscriptions,Subscriptions
+2026-04-24,Metro Pass,32.89,Transportation,Transportation
+2026-04-24,Amazon,85.32,Shopping,Shopping
+2026-04-24,Kroger,100.68,Groceries,Groceries
+2026-04-25,Walmart,93.18,Groceries,Groceries
+2026-04-25,Pizza Hut,41.46,Dining,Dining
+2026-04-26,Pizza Hut,20.68,Dining,Dining
+2026-04-27,Pizza Hut,43.97,Dining,Dining
+2026-04-27,Metro Pass,25.82,Transportation,Transportation
+2026-04-28,Metro Pass,17.79,Transportation,Transportation
+2026-04-28,Chipotle,42.59,Dining,Dining
+2026-04-29,Amazon,97.08,Shopping,Shopping
+2026-04-30,Steam,28.51,Entertainment,Entertainment
+2026-05-01,Starbucks,57.16,Dining,Dining
+2026-05-01,Target,65.38,Shopping,Shopping
+2026-05-01,Target,47.54,Shopping,Shopping
+2026-05-02,Uber Eats,33.3,Dining,Dining
+2026-05-02,Whole Foods,98.17,Groceries,Groceries
+2026-05-03,McDonald's,41.68,Dining,Dining
+2026-05-03,Lyft,39.59,Transportation,Transportation
+2026-05-04,Amazon Prime,6.79,Subscriptions,Subscriptions
+2026-05-04,Kroger,33.45,Groceries,Groceries
+2026-05-05,Concert Tickets,16.42,Entertainment,Entertainment
+2026-05-05,Pizza Hut,42.71,Dining,Dining
+2026-05-07,Zara,113.21,Shopping,Shopping
+2026-05-09,Trader Joe's,93.44,Groceries,Groceries
+2026-05-09,Uber,39.01,Transportation,Transportation
+2026-05-09,Netflix,13.86,Subscriptions,Subscriptions
+2026-05-10,Starbucks,11.89,Dining,Dining
+2026-05-10,Target,174.13,Shopping,Shopping
+2026-05-10,Whole Foods,98.23,Groceries,Groceries
+2026-05-11,Whole Foods,118.31,Groceries,Groceries
+2026-05-11,Trader Joe's,80.55,Groceries,Groceries
+2026-05-13,Chipotle,34.46,Dining,Dining
+2026-05-13,Steam,70.52,Entertainment,Entertainment
+2026-05-13,Amazon,169.23,Shopping,Shopping
+2026-05-14,Chipotle,48.4,Dining,Dining
+2026-05-14,H&M,98.26,Shopping,Shopping
+2026-05-14,Lyft,17.5,Transportation,Transportation
+2026-05-14,Walmart,31.44,Groceries,Groceries
+2026-05-15,Uber,31.95,Transportation,Transportation
+2026-05-15,AMC Theatres,50.51,Entertainment,Entertainment
+2026-05-16,Uber,40.0,Transportation,Transportation
+2026-05-17,Walmart,70.71,Groceries,Groceries
+2026-05-18,Kroger,119.05,Groceries,Groceries
+2026-05-18,Pizza Hut,55.64,Dining,Dining
+2026-05-19,Uber,44.17,Transportation,Transportation
+2026-05-19,Amazon,48.18,Shopping,Shopping
+2026-05-20,Concert Tickets,54.43,Entertainment,Entertainment
+2026-05-22,Shell Gas,23.98,Transportation,Transportation
+2026-05-22,Shell Gas,33.27,Transportation,Transportation
+2026-05-23,PlayStation Store,34.58,Entertainment,Entertainment
+2026-05-24,Whole Foods,25.7,Groceries,Groceries
+2026-05-24,Concert Tickets,17.47,Entertainment,Entertainment
+2026-05-26,Whole Foods,76.57,Groceries,Groceries
+2026-05-26,Lyft,15.74,Transportation,Transportation
+2026-05-27,Lyft,34.72,Transportation,Transportation
+2026-05-27,Uber,20.92,Transportation,Transportation
+2026-05-27,Uber Eats,39.55,Dining,Dining
+2026-05-28,Uber,7.28,Transportation,Transportation
+2026-05-28,Zara,68.55,Shopping,Shopping
+2026-05-28,Shell Gas,47.0,Transportation,Transportation
+2026-05-29,PlayStation Store,17.15,Entertainment,Entertainment
+2026-05-29,Chipotle,47.88,Dining,Dining
+2026-05-30,Metro Pass,45.92,Transportation,Transportation
+2026-05-31,Zara,171.39,Shopping,Shopping
+2026-06-01,Lyft,14.86,Transportation,Transportation
+2026-06-01,Pizza Hut,28.73,Dining,Dining
+2026-06-02,Starbucks,49.01,Dining,Dining
+2026-06-02,Starbucks,44.73,Dining,Dining
+2026-06-03,Shell Gas,41.3,Transportation,Transportation
+2026-06-03,Uber,12.84,Transportation,Transportation
+2026-06-03,Kroger,65.54,Groceries,Groceries
+2026-06-03,Target,86.9,Shopping,Shopping
+2026-06-04,Uber Eats,15.44,Dining,Dining
+2026-06-04,Walmart,74.22,Groceries,Groceries
+2026-06-05,Shell Gas,12.65,Transportation,Transportation
+2026-06-05,Kroger,43.34,Groceries,Groceries
+2026-06-05,Starbucks,27.95,Dining,Dining
+2026-06-05,Walmart,108.73,Groceries,Groceries
+2026-06-06,Zara,156.68,Shopping,Shopping
+2026-06-06,McDonald's,27.89,Dining,Dining
+2026-06-06,Walmart,80.24,Groceries,Groceries
+2026-06-08,Whole Foods,94.82,Groceries,Groceries
+2026-06-09,Starbucks,31.64,Dining,Dining
+2026-06-10,Pizza Hut,41.79,Dining,Dining
+2026-06-10,Kroger,72.93,Groceries,Groceries
+2026-06-10,Kroger,51.3,Groceries,Groceries
+2026-06-12,Pizza Hut,58.97,Dining,Dining
+2026-06-12,McDonald's,28.22,Dining,Dining
+2026-06-12,Walmart,51.24,Groceries,Groceries
+2026-06-12,Amazon Prime,18.82,Subscriptions,Subscriptions
+2026-06-12,Zara,184.1,Shopping,Shopping
+2026-06-13,H&M,77.88,Shopping,Shopping
+2026-06-14,Amazon,155.38,Shopping,Shopping
+2026-06-14,Shell Gas,29.27,Transportation,Transportation
+2026-06-14,McDonald's,31.04,Dining,Dining
+2026-06-15,Lyft,9.2,Transportation,Transportation
+2026-06-15,Chipotle,43.3,Dining,Dining
+2026-06-16,AMC Theatres,40.38,Entertainment,Entertainment
+2026-06-18,Pizza Hut,17.13,Dining,Dining
+2026-06-18,Kroger,43.82,Groceries,Groceries
+2026-06-18,Whole Foods,46.74,Groceries,Groceries
+2026-06-18,Walmart,75.81,Groceries,Groceries
+2026-06-19,Target,43.28,Shopping,Shopping
+2026-06-19,H&M,114.57,Shopping,Shopping
+2026-06-19,H&M,175.07,Shopping,Shopping
+2026-06-20,Whole Foods,27.44,Groceries,Groceries
+2026-06-20,Amazon,162.3,Shopping,Shopping
+2026-06-20,Uber,11.29,Transportation,Transportation
+2026-06-20,McDonald's,23.8,Dining,Dining
+2026-06-21,Lyft,26.3,Transportation,Transportation
+2026-06-21,McDonald's,54.74,Dining,Dining
+2026-06-21,Whole Foods,107.19,Groceries,Groceries
+2026-06-22,Metro Pass,22.85,Transportation,Transportation
+2026-06-22,Metro Pass,9.19,Transportation,Transportation
+2026-06-22,Target,76.62,Shopping,Shopping
+2026-06-23,Uber Eats,14.01,Dining,Dining
+2026-06-23,Metro Pass,36.93,Transportation,Transportation
+2026-06-23,McDonald's,58.45,Dining,Dining
+2026-06-24,Amazon,40.6,Shopping,Shopping
+2026-06-25,Pizza Hut,43.13,Dining,Dining
+2026-06-26,Kroger,102.36,Groceries,Groceries
+2026-06-27,Amazon,134.51,Shopping,Shopping
+2026-06-27,Pizza Hut,22.99,Dining,Dining
+2026-06-27,H&M,191.52,Shopping,Shopping
+2026-06-28,McDonald's,52.6,Dining,Dining
+2026-06-28,Whole Foods,97.63,Groceries,Groceries
+2026-06-28,H&M,163.41,Shopping,Shopping
+2026-06-29,Whole Foods,76.79,Groceries,Groceries
+2026-06-29,H&M,66.48,Shopping,Shopping
+2026-06-29,Amazon,61.0,Shopping,Shopping
+2026-06-29,H&M,193.14,Shopping,Shopping
+2026-06-30,AMC Theatres,45.32,Entertainment,Entertainment
+2026-06-30,Kroger,31.61,Groceries,Groceries
+2026-07-01,PlayStation Store,54.73,Entertainment,Entertainment
+2026-07-02,Whole Foods,74.46,Groceries,Groceries
+2026-07-03,Pizza Hut,52.92,Dining,Dining
+2026-07-03,Zara,66.74,Shopping,Shopping
+2026-07-03,Trader Joe's,88.69,Groceries,Groceries
+2026-07-03,Lyft,25.78,Transportation,Transportation
+2026-07-05,Walmart,40.55,Groceries,Groceries
+2026-07-05,Metro Pass,36.83,Transportation,Transportation
+2026-07-05,Metro Pass,33.14,Transportation,Transportation
+2026-07-05,Trader Joe's,72.17,Groceries,Groceries
+2026-07-07,Metro Pass,31.43,Transportation,Transportation
+2026-07-07,Trader Joe's,75.28,Groceries,Groceries
+2026-07-07,Kroger,114.81,Groceries,Groceries
+2026-07-08,Concert Tickets,14.7,Entertainment,Entertainment
+2026-07-08,Amazon,123.5,Shopping,Shopping
+2026-07-09,Trader Joe's,102.09,Groceries,Groceries
+2026-07-10,Starbucks,33.76,Dining,Dining
+2026-07-10,Shell Gas,27.51,Transportation,Transportation
+2026-07-10,Trader Joe's,78.39,Groceries,Groceries
+2026-07-10,Pizza Hut,23.46,Dining,Dining
+2026-07-10,Shell Gas,32.7,Transportation,Transportation
+2026-07-10,Lyft,49.67,Transportation,Transportation
+2026-07-12,Pizza Hut,22.83,Dining,Dining
+2026-07-14,Trader Joe's,63.01,Groceries,Groceries
+2026-07-14,Walmart,62.75,Groceries,Groceries
+2026-07-15,Walmart,24.63,Groceries,Groceries
+2026-07-15,PlayStation Store,40.67,Entertainment,Entertainment
+2026-07-15,Steam,36.53,Entertainment,Entertainment
+2026-07-15,Amazon,99.14,Shopping,Shopping
+2026-07-15,Starbucks,55.48,Dining,Dining
+2026-07-16,Amazon,136.67,Shopping,Shopping
+2026-07-17,Starbucks,43.91,Dining,Dining
+2026-07-17,Uber Eats,32.44,Dining,Dining
+2026-07-17,Walmart,84.19,Groceries,Groceries
+2026-07-18,Kroger,89.05,Groceries,Groceries
+2026-07-19,Pizza Hut,9.08,Dining,Dining
+2026-07-19,Shell Gas,39.91,Transportation,Transportation
+2026-07-19,Kroger,55.9,Groceries,Groceries
+2026-07-20,Lyft,47.06,Transportation,Transportation
+2026-07-20,McDonald's,32.46,Dining,Dining
+2026-07-21,Metro Pass,43.04,Transportation,Transportation
+2026-07-21,Uber,21.32,Transportation,Transportation
+2026-07-21,Metro Pass,22.17,Transportation,Transportation
+2026-07-22,Metro Pass,37.06,Transportation,Transportation
+2026-07-22,Kroger,34.08,Groceries,Groceries
+2026-07-22,H&M,81.97,Shopping,Shopping
+2026-07-22,Amazon,127.66,Shopping,Shopping
+2026-07-22,Uber,8.39,Transportation,Transportation
+2026-07-23,Walmart,104.54,Groceries,Groceries
+2026-07-24,Trader Joe's,79.67,Groceries,Groceries
+2026-07-25,H&M,37.46,Shopping,Shopping
+2026-07-25,Zara,128.16,Shopping,Shopping
+2026-07-25,Kroger,16.61,Groceries,Groceries
+2026-07-26,Lyft,31.61,Transportation,Transportation
+2026-07-26,Walmart,48.82,Groceries,Groceries
+2026-07-27,Lyft,19.96,Transportation,Transportation
+2026-07-29,Lyft,12.32,Transportation,Transportation
+2026-07-29,Whole Foods,112.01,Groceries,Groceries
+2026-07-30,Starbucks,19.59,Dining,Dining
+2026-07-31,Metro Pass,16.49,Transportation,Transportation
+2026-07-31,Metro Pass,20.14,Transportation,Transportation
+2026-08-01,Metro Pass,47.42,Transportation,Transportation
+2026-08-01,Uber,35.61,Transportation,Transportation
+2026-08-01,AMC Theatres,73.49,Entertainment,Entertainment
+2026-08-02,Trader Joe's,111.1,Groceries,Groceries
+2026-08-02,Chipotle,17.59,Dining,Dining
+2026-08-05,PlayStation Store,62.26,Entertainment,Entertainment
+2026-08-05,Uber Eats,58.78,Dining,Dining
+2026-08-07,Trader Joe's,107.27,Groceries,Groceries
+2026-08-07,Concert Tickets,34.36,Entertainment,Entertainment
+2026-08-07,Walmart,75.28,Groceries,Groceries
+2026-08-08,Target,105.2,Shopping,Shopping
+2026-08-09,Zara,158.51,Shopping,Shopping
+2026-08-09,Pizza Hut,15.43,Dining,Dining
+2026-08-10,Walmart,62.3,Groceries,Groceries
+2026-08-10,Metro Pass,8.62,Transportation,Transportation
+2026-08-11,McDonald's,22.71,Dining,Dining
+2026-08-11,Uber Eats,31.19,Dining,Dining
+2026-08-12,Starbucks,42.26,Dining,Dining
+2026-08-12,Uber Eats,25.22,Dining,Dining
+2026-08-12,Whole Foods,22.19,Groceries,Groceries
+2026-08-14,Starbucks,19.68,Dining,Dining
+2026-08-14,AMC Theatres,26.89,Entertainment,Entertainment
+2026-08-15,Starbucks,22.28,Dining,Dining
+2026-08-16,Shell Gas,21.38,Transportation,Transportation
+2026-08-16,Uber,42.47,Transportation,Transportation
+2026-08-17,Uber Eats,25.2,Dining,Dining
+2026-08-17,Kroger,62.63,Groceries,Groceries
+2026-08-18,Walmart,117.3,Groceries,Groceries
+2026-08-18,Target,137.05,Shopping,Shopping
+2026-08-19,Steam,23.41,Entertainment,Entertainment
+2026-08-19,H&M,95.58,Shopping,Shopping
+2026-08-20,Target,146.9,Shopping,Shopping
+2026-08-20,Starbucks,13.72,Dining,Dining
+2026-08-20,Trader Joe's,38.54,Groceries,Groceries
+2026-08-20,McDonald's,17.75,Dining,Dining
+2026-08-20,Trader Joe's,21.0,Groceries,Groceries
+2026-08-21,Whole Foods,110.38,Groceries,Groceries
+2026-08-21,Chipotle,53.22,Dining,Dining
+2026-08-21,Target,105.32,Shopping,Shopping
+2026-08-22,Walmart,116.74,Groceries,Groceries
+2026-08-22,Kroger,116.26,Groceries,Groceries
+2026-08-23,Starbucks,41.17,Dining,Dining
+2026-08-23,Kroger,84.82,Groceries,Groceries
+2026-08-23,AMC Theatres,41.48,Entertainment,Entertainment
+2026-08-25,Uber,23.49,Transportation,Transportation
+2026-08-25,H&M,195.16,Shopping,Shopping
+2026-08-25,Metro Pass,32.57,Transportation,Transportation
+2026-08-26,Zara,113.56,Shopping,Shopping
+2026-08-26,Lyft,43.89,Transportation,Transportation
+2026-08-26,H&M,141.01,Shopping,Shopping
+2026-08-26,Amazon,183.46,Shopping,Shopping
+2026-08-27,Uber,12.0,Transportation,Transportation
+2026-08-27,Walmart,80.04,Groceries,Groceries
+2026-08-27,Zara,54.34,Shopping,Shopping
+2026-08-28,Shell Gas,40.31,Transportation,Transportation
+2026-08-28,Lyft,32.23,Transportation,Transportation
+2026-08-29,Walmart,89.42,Groceries,Groceries
+2026-08-29,McDonald's,57.02,Dining,Dining
+2026-08-29,Shell Gas,34.55,Transportation,Transportation
+2026-08-31,Lyft,22.14,Transportation,Transportation
+2026-08-31,Lyft,18.96,Transportation,Transportation
+2026-08-31,AMC Theatres,69.97,Entertainment,Entertainment
+2026-08-31,Uber Eats,16.19,Dining,Dining
+2026-08-31,Metro Pass,10.74,Transportation,Transportation
+2026-09-01,McDonald's,28.58,Dining,Dining
+2026-09-01,PlayStation Store,49.8,Entertainment,Entertainment
+2026-09-02,Starbucks,51.2,Dining,Dining
+2026-09-02,Uber,8.78,Transportation,Transportation
+2026-09-03,Zara,96.24,Shopping,Shopping
+2026-09-03,Whole Foods,118.69,Groceries,Groceries
+2026-09-03,Metro Pass,27.75,Transportation,Transportation
+2026-09-03,Amazon Prime,13.34,Subscriptions,Subscriptions
+2026-09-04,Shell Gas,43.88,Transportation,Transportation
+2026-09-04,Whole Foods,46.65,Groceries,Groceries
+2026-09-05,Trader Joe's,36.38,Groceries,Groceries
+2026-09-05,Whole Foods,90.18,Groceries,Groceries
+2026-09-07,Amazon,99.25,Shopping,Shopping
+2026-09-08,Chipotle,9.7,Dining,Dining
+2026-09-09,Walmart,43.57,Groceries,Groceries
+2026-09-09,Zara,121.81,Shopping,Shopping
+2026-09-11,Pizza Hut,11.55,Dining,Dining
+2026-09-11,Lyft,40.49,Transportation,Transportation
+2026-09-11,Shell Gas,24.13,Transportation,Transportation
+2026-09-11,iCloud,18.09,Subscriptions,Subscriptions
+2026-09-12,Metro Pass,27.25,Transportation,Transportation
+2026-09-12,Shell Gas,36.94,Transportation,Transportation
+2026-09-13,H&M,61.46,Shopping,Shopping
+2026-09-14,Shell Gas,35.81,Transportation,Transportation
+2026-09-14,Trader Joe's,40.71,Groceries,Groceries
+2026-09-14,AMC Theatres,57.24,Entertainment,Entertainment
+2026-09-16,iCloud,16.89,Subscriptions,Subscriptions
+2026-09-16,Target,34.02,Shopping,Shopping
+2026-09-16,Pizza Hut,22.35,Dining,Dining
+2026-09-17,Target,94.56,Shopping,Shopping
+2026-09-18,Metro Pass,10.8,Transportation,Transportation
+2026-09-18,Lyft,46.93,Transportation,Transportation
+2026-09-18,Kroger,63.72,Groceries,Groceries
+2026-09-19,Steam,33.34,Entertainment,Entertainment
+2026-09-19,Zara,20.36,Shopping,Shopping
+2026-09-19,Trader Joe's,44.25,Groceries,Groceries
+2026-09-20,Uber Eats,41.67,Dining,Dining
+2026-09-20,Zara,108.82,Shopping,Shopping
+2026-09-20,Uber Eats,30.99,Dining,Dining
+2026-09-21,Pizza Hut,44.25,Dining,Dining
+2026-09-21,Concert Tickets,70.77,Entertainment,Entertainment
+2026-09-21,Starbucks,28.55,Dining,Dining
+2026-09-22,Metro Pass,37.59,Transportation,Transportation
+2026-09-22,Amazon,88.46,Shopping,Shopping
+2026-09-23,Zara,123.14,Shopping,Shopping
+2026-09-23,PlayStation Store,16.32,Entertainment,Entertainment
+2026-09-23,Amazon,156.18,Shopping,Shopping
+2026-09-24,Uber,24.88,Transportation,Transportation
+2026-09-25,Shell Gas,29.04,Transportation,Transportation
+2026-09-26,Whole Foods,100.17,Groceries,Groceries
+2026-09-27,AMC Theatres,68.42,Entertainment,Entertainment
+2026-09-28,McDonald's,10.39,Dining,Dining
+2026-09-29,Kroger,39.52,Groceries,Groceries
+2026-09-29,Uber,30.08,Transportation,Transportation
+2026-09-29,Concert Tickets,20.84,Entertainment,Entertainment
+2026-09-30,Shell Gas,25.21,Transportation,Transportation
+2026-09-30,Chipotle,21.07,Dining,Dining
+2026-10-01,Whole Foods,96.17,Groceries,Groceries
